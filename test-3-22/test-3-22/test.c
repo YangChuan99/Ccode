@@ -1,10 +1,11 @@
 #define _CRT_SECURE_NO_WARNINGS 1
 #include<stdio.h>
 #include<stdlib.h>
+#include<time.h>
 void menu()
 {
 	printf("*********************************\n");
-	printf("*****   1. play    0.exit   *****\n");
+	printf("*****  1. play   0.exit  *****\n");
 	printf("*********************************\n");
 }
 void game()
